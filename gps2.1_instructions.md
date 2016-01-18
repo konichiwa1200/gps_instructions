@@ -8,7 +8,7 @@
 1. `mkdir gps`
 1. `touch gps2-1.html gps2-1.css`
 	1. copy html from link
-4. add `<link rel="stylesheet" type="text/css" href="theme.css">` to gps2-1.html file
+4. add `<link rel="stylesheet" type="text/css" href="gps2-1.css">` to gps2-1.html file
 5. `git add .`
 6. `git commit -m "html and css created"`
 7. submit link for guide to leave feedback
