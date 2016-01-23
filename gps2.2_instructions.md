@@ -33,7 +33,6 @@
 		1. tomatoes, qty:3
 		1. onions, qty:1
 		1. ice cream, qty:4
-		1. 
 	1. remove lemonade from the list
 	1. update ice cream qty:1
 	1. print list
